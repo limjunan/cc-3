@@ -9,7 +9,7 @@ A simple React login component that allows users to enter their email and passwo
 1. Clone the repository:
 
 ```bash
-git clone [<repository-url>](https://github.com/limjunan/cc-3.git)https://github.com/limjunan/cc-3.git
+git clone https://github.com/limjunan/cc-3.git
 ```
 
 2. Navigate into the folder.
